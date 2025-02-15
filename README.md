@@ -1,3 +1,6 @@
+This is a personal project based on the Bearded Icons theme.
+I replaced all the colors in the icons with colors from Tokyo Night.
+
 # Bearded Icons
 
 Beautiful icons for [Zed](https://zed.dev).
@@ -13,6 +16,7 @@ Some missing icons have been created by me and are distributed under the same li
 **Note:** More icons will not be available until file type associations are added to the core of Zed. I am also working on this.
 
 ## Changelog
+
 **0.3.0**
 Added icons for `bicep` `csharp` `gitlab` `luau` `markdown` `sol` `stylelint` `svelte`
 
