@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Calque_1" data-name="Calque 1" viewBox="0 0 16 16"><defs><style
-    >.cls-1{fill:#9d7cd8}</style></defs><ellipse cx="6.36" cy="10.75" class="cls-1" rx="3.36" ry="2.75" /><path
-    d="M8.72 3h1v7.5h-1z"
-    class="cls-1"
-  /><path d="M8.72 3h4v2.5h-4z" class="cls-1" /></svg>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.36 13.5C8.21568 13.5 9.72 12.2688 9.72 10.75C9.72 9.23122 8.21568 8 6.36 8C4.50432 8 3 9.23122 3 10.75C3 12.2688 4.50432 13.5 6.36 13.5Z" fill="#9D7CD8"/>
+<path d="M8.72 3H9.72V10.5H8.72V3Z" fill="#9D7CD8"/>
+<path d="M8.72 3H12.72V5.5H8.72V3Z" fill="#9D7CD8"/>
+</svg>

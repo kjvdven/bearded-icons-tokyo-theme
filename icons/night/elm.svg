@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Calque_1" data-name="Calque 1" viewBox="0 0 16 16"><defs><clipPath
-      id="clip-path"
-    ><rect width="12" height="12" x="2" y="2" rx=".96" style="fill:none" /></clipPath><style
-    >.cls-4{fill:#9ece6a}.cls-5{fill:#41a6b5}.cls-6{fill:#e0af68}</style></defs><g
-    style="clip-path:url(#clip-path)"
-  ><path d="M2 2v12l6-6-6-6z" style="fill:#545c7e" /><path d="m2 2 4 4 5.5-.5L8 2H2z" class="cls-4" /><path
-      d="m8 2 6 6V2H8z"
-      class="cls-5"
-    /><path d="m5.5 5.5 3 3 3-3h-6z" class="cls-6" /><path d="m8 8-6 6h12L8 8z" class="cls-5" /><path
-      d="m8.498 8.496 2.998-2.998L14 8.001 11.001 11z"
-      class="cls-4"
-    /><path d="m14 8-3 3 3 3V8z" class="cls-6" /></g></svg>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_35" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="2" y="2" width="12" height="12">
+<path d="M13.04 2H2.96C2.42981 2 2 2.42981 2 2.96V13.04C2 13.5702 2.42981 14 2.96 14H13.04C13.5702 14 14 13.5702 14 13.04V2.96C14 2.42981 13.5702 2 13.04 2Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_35)">
+<path d="M2 2V14L8 8L2 2Z" fill="#545C7E"/>
+<path d="M2 2L5.5 5.5H11.5L8 2H2Z" fill="#9ECE6A"/>
+<path d="M8 2L14 8V2H8Z" fill="#41A6B5"/>
+<path d="M5.5 5.5L8.5 8.5L11.5 5.5H5.5Z" fill="#E0AF68"/>
+<path d="M8 8L2 14H14L8 8Z" fill="#41A6B5"/>
+<path d="M8.498 8.496L11.496 5.498L14 8.001L11.001 11L8.498 8.496Z" fill="#9ECE6A"/>
+<path d="M14 8L11 11L14 14V8Z" fill="#E0AF68"/>
+</g>
+</svg>
