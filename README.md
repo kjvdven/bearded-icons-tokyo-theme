@@ -1,7 +1,7 @@
 This is a personal project based on Lucide Icons.
 I replaced all the colors in the icons with colors from Tokyo Night.
 
-# Bearded Icons
+# Icons
 
 Beautiful icons for [Zed](https://zed.dev).
 
